@@ -8,7 +8,7 @@ Assignment 1 W9D5 - SDA - Software QA Bootcamp
 
 ---
 ## Question
-Create an automation script using Selenium to pick a date.
+Create an automation script using Selenium to pick a date, Use any website with a drag and drop option.
 - STEP 1: Find the website (to pick the date)
 - STEP 2: Evoke the browser
 - STEP 3: Navigate to website
@@ -16,10 +16,7 @@ Create an automation script using Selenium to pick a date.
 - STEP 5: Pick the date
 
 ## Answer
-Web Crawling is useful to automate certain tasks performed routinely and popular way of information gathering mechanism on websites.
-
-and I used for solving this assignment the following reference [Web Crawling [Java][Selenium]](https://medium.com/tech-vision/web-crawling-java-selenium-8805fc006db1)
-
+I used a ["Demos"](https://demos.jquerymobile.com/1.4.5/datepicker/) website
 
 ### First:
 Setup Latest Web Driver for Chrome  Driver.
